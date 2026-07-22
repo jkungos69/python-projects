@@ -20,6 +20,3 @@ This repository contains my Python learning journey.
 ## Technologies
 
 - Python 3
-- Pandas
-- NumPy
-- Matplotlib
