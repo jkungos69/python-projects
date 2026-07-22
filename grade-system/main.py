@@ -14,9 +14,11 @@ def get_remark(grade):
 
 
 name = input("Student Name: ")
+section = input("Section: ")
 grade = float(input("Enter Grade: "))
 
 print("\n========== REPORT ==========")
 print(f"Student : {name}")
+print(f"Section : {section}")
 print(f"Grade   : {grade}")
 print(f"Remark  : {get_remark(grade)}")
